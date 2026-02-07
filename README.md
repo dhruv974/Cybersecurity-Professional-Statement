@@ -1,1 +1,2 @@
 # Cybersecurity-Professional-Statement
+Cybersecurity isn't just a career; it's a commitment to defense. I am a detail-oriented professional specializing in network security and device configuration, motivated by the challenge of securing AI-driven environments. By blending technical troubleshooting with a "think-outside-the-box" methodology, I ensure that an organization’s most valuable assets—its people and its data—remain protected and compliant. Eager to learn, disciplined in execution, and always looking for the next unique way to harden a perimeter.
